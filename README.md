@@ -1,7 +1,5 @@
 # Predicting Online Purchase Intent from Session Behavior
 
-![illustration](rupixen-Q59HmzK38eQ-unsplash.jpg)
-
 ## Overview
 This repository analyzes online shopping sessions to predict whether a visit results in a **Purchase**.  
 It uses an adapted version of the **Online Shoppers Purchasing Intention** dataset (originally from the UC Irvine ML Repository) and a Jupyter Notebook that walks through EDA and a baseline predictive model.
